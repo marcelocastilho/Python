@@ -1,3 +1,8 @@
+'''
+Created on Jul 30, 2018
+
+@author: marcelo
+'''
 
 #Simple example of input 
 name = input('Whats your name?')
