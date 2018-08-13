@@ -1,5 +1,5 @@
 #Creating a dictionary in a single line
-from pythonclasses.chapter6.stringFunctions import count
+
 dict0 =  {'Name': 'Gislaine', 'Age': 34, 'Weight':80, 'Height': 1.50}
 print('Print the dictionary instancied  in a single line', dict0)
 
@@ -22,7 +22,7 @@ intDict = dict()
 
 intDict[1] = 'Posição 1'
 intDict[2] = 'Posição 2'
-intDict[3] = 3
+intDict['Posição'] = 3
 
 print('\nDictionary with int keys', intDict)
 
