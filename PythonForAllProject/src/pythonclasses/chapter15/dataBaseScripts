@@ -1,0 +1,12 @@
+create table users(
+name varchar(128),
+email varchar(128)
+)
+
+insert into users
+values
+'marcelo', marcelocasnet@gmail.com
+
+insert into users
+values
+("outro", "outro@gmail.com")
